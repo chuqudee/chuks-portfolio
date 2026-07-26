@@ -1,4 +1,5 @@
 import './globals.css';
+import './globals.css'; // This looks for globals.css in the exact same app/ directory
 import Link from 'next/link';
 
 export const metadata = {
